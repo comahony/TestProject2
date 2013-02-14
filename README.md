@@ -2,4 +2,4 @@ TestProject2
 
 ============
 
-Dummy message
+Dummy message V2
